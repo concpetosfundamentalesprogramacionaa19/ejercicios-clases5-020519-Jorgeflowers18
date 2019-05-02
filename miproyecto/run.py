@@ -21,6 +21,7 @@ if nota >=18:
 if nota2 >=18:
 	print(mensaje)
 
+ 
 
 
 
